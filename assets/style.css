@@ -1,0 +1,3 @@
+.widefat .column-wc_actions a.duplicate::after {
+    content: "\f105"
+}
